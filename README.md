@@ -18,4 +18,6 @@ IKAnalyzer是流行的java分词器，但网上介绍的使用方法太过复杂
 
 数据文件和jar包在项目中都带有，记得自己在放在相应的路径下即可
 
-
+效果图：
+![](https://github.com/wzbin/Fenci/raw/master/1.png) 
+![](https://github.com/wzbin/Fenci/raw/master/2.png) 
